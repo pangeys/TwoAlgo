@@ -1,0 +1,12 @@
+C:\Users\airon\source\repos\SpamClassifierApp\SpamClassifierApp\obj\Debug\SpamClassifierApp.csproj.AssemblyReference.cache
+C:\Users\airon\source\repos\SpamClassifierApp\SpamClassifierApp\obj\Debug\SpamClassifierApp.Form1.resources
+C:\Users\airon\source\repos\SpamClassifierApp\SpamClassifierApp\obj\Debug\SpamClassifierApp.Properties.Resources.resources
+C:\Users\airon\source\repos\SpamClassifierApp\SpamClassifierApp\obj\Debug\SpamClassifierApp.csproj.GenerateResource.cache
+C:\Users\airon\source\repos\SpamClassifierApp\SpamClassifierApp\obj\Debug\SpamClassifierApp.csproj.CoreCompileInputs.cache
+C:\Users\airon\source\repos\SpamClassifierApp\SpamClassifierApp\bin\Debug\SpamClassifierApp.exe.config
+C:\Users\airon\source\repos\SpamClassifierApp\SpamClassifierApp\bin\Debug\SpamClassifierApp.exe
+C:\Users\airon\source\repos\SpamClassifierApp\SpamClassifierApp\bin\Debug\SpamClassifierApp.pdb
+C:\Users\airon\source\repos\SpamClassifierApp\SpamClassifierApp\obj\Debug\SpamClassifierApp.exe
+C:\Users\airon\source\repos\SpamClassifierApp\SpamClassifierApp\obj\Debug\SpamClassifierApp.pdb
+C:\Users\airon\source\repos\SpamClassifierApp\SpamClassifierApp\obj\Debug\SpamClassifierApp.exe.config
+C:\Users\airon\source\repos\SpamClassifierApp\SpamClassifierApp\bin\Debug\Data\SampleEmails.csv
